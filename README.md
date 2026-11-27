@@ -4,6 +4,8 @@
 
 **[从 Azure 学生认证开始，阅读完整教程](docs/vpn-setup.md)**
 
+**[新加坡机型可用性与 US$100 续航估算](docs/singapore-availability-and-cost.md)**
+
 - **部署** · 领取 Azure for Students 额度，创建 Ubuntu VM，配置公网 IPv4 和 UDP 入站规则。
 - **连接** · 配置 WireGuard，在手机上检查握手和出口 IP，定位连接故障。
 - **费用** · 核对算力、磁盘、公网 IPv4 和出站流量，区分停机与释放资源。
